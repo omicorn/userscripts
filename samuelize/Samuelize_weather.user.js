@@ -10,6 +10,6 @@ var img = document.getElementsByTagName('img');
 
 for (i in img) {
     if ( img[i].alt === 'Legend' ) {
-        img[i].src = 'http://i.imgur.com/C6wvOcB.png';
+        img[i].src = 'https://raw.githubusercontent.com/omicorn/userscripts/master/samuelize/rr1h-fmi.png';
     }
 }
