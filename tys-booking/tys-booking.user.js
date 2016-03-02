@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name       TYS Booking Date keeper
 // @namespace  https://github.com/omicorn/userscripts
-// @version    0.1
+// @version    0.2
 // @description  Preservers the date when switching between apartments
-// @match      http://booking.tys.fi/varaus/service/timetable/*
+// @match      https://booking.tys.fi/varaus/service/timetable/*
 // @copyright  2013+, Jarko Papalitsas. Feel free to share and edit
 // ==/UserScript==
 
